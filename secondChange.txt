@@ -1,0 +1,6 @@
+Step's to work with Git/Github:
+-------------------------------
+1,  we make a change
+2,  we add it to the stagging area - >> git add .
+3,  we commited it to the local repo - >> git commit -m "commit message"
+4,  we push it to the remote repo - >> git push origin main
