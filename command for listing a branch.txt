@@ -1,0 +1,32 @@
+command for listing a branch:
+----------------------------
+--> git branch
+
+
+command for creating a branch:
+-----------------------------
+
+1, git branch <<branchName>>
+
+ ex:  git branch feature_101
+
+2,  git checkout  -b <<branchName>>
+
+  ex:  git checkout -b feature_102
+
+
+switching the branch:
+--------------------
+git checkout main
+
+
+merging branch:
+--------------
+
+git merge <<branchName>>
+
+git rebase
+
+
+
+
