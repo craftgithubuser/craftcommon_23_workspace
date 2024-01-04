@@ -36,4 +36,4 @@ public static void main {
 	int add = a+b;
 	system.out.println(add);
 
-}
+}// new trial code
