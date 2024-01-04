@@ -26,3 +26,4 @@ public class generateRandom{
 		System.out.println("Random Doubles: "+rand_dub2);
 	}
 }
+// java with comment
