@@ -1,7 +1,8 @@
 class Main {
+    int num = 1234, reversed = 0;
+
   public static void main(String[] args) {
 
-    int num = 1234, reversed = 0;
     
     System.out.println("Original Number: " + num);
 
