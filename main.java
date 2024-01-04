@@ -15,3 +15,4 @@ public class ArithmeticOperations {
         System.out.println("Remainder: " + remainder);
     }
 }
+//main java comment
