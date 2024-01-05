@@ -8,6 +8,8 @@ public class ArithmeticOperations {
         int quotient = a / b;
         int remainder = a % b;
 
+        System.out.println("Hello World");
+
         System.out.println("Sum: " + sum);
         System.out.println("Difference: " + difference);
         System.out.println("Product: " + product);
