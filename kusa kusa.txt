@@ -1,1 +1,22 @@
-kusa's practice file.
+kusa's practice
+
+
+To launch a class file:
+
+java [options] mainclass [args ...]
+
+To launch the main class in a JAR file:
+
+java [options] -jar jarfile [args ...]
+
+To launch the main class in a module:
+
+java [options] -m module[/mainclass] [args ...]
+
+or
+
+java [options] --module module[/mainclass] [args ...]
+
+To launch a single source-file program:
+
+java [options] source-file [args ...]
