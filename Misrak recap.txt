@@ -4,4 +4,8 @@ regards
 thank you
 new session
 thanks
+<<<<<<< HEAD
 dear me
+=======
+dear me, please accept
+>>>>>>> 49cda89f537b60058af07be0cb99939255b26349
