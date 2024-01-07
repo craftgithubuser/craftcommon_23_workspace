@@ -1,4 +1,4 @@
-file on file
+File on file
 <<<<<<< HEAD
 ...
 =======
