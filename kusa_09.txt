@@ -1,6 +1,8 @@
 12345
 abcde
-ABCDE
+ABCDE.
+
+
 
 public final class Accumulator {
     private double result = 0.0D;
