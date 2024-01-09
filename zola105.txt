@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+get the new treatment
+=======
+ten steps to follow. additional two more steps. get the change
+>>>>>>> bc00155088d122595b9ba019c9fa77ce6a3cbde7

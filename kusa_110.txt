@@ -1,0 +1,9 @@
+This is new file.
+File
+
+List<UserDO> userList;
+if (isAll) {
+    userList = userDAO.queryAll();
+} else {
+    userList = userDAO.queryActive();
+}
