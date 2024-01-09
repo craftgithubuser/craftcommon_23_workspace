@@ -1,1 +1,6 @@
 This is new file!
+<<<<<<< HEAD
+melkam Gena!
+=======
+This is new file.
+>>>>>>> 3a267fc035150c6b0bae25908a2c21223d544294
