@@ -26,3 +26,14 @@ public class generateRandom{
 		System.out.println("Random Doubles: "+rand_dub2);
 	}
 }
+// java with comment
+// java with more comment from 0 branch to be merged with main 
+//more comments
+// {public}
+public static void main {
+	int a =1;
+	int b =2;
+	int add = a+b;
+	system.out.println(add);
+
+}// new trial code
