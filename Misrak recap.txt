@@ -1,3 +1,15 @@
 Dear team, I have shared last session recap 
 please check.
+<<<<<<< HEAD
+regards,,,
+=======
 regards
+thank you
+new session
+thanks
+<<<<<<< HEAD
+dear me
+=======
+dear me, please accept
+>>>>>>> 49cda89f537b60058af07be0cb99939255b26349
+>>>>>>> eead7df51b0dd3eee515c88a51040cc2c249f277mmmmm
