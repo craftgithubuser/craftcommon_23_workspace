@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+File on file
+=======
+File on file.
+
+>>>>>>> 89fbbfb9f64c112b942a60b996d72da725b780fa
+<<<<<<< HEAD
+...
+=======
+>>>>>>> 49cda89f537b60058af07be0cb99939255b26349
+...
